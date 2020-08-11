@@ -1,3 +1,3 @@
-# tickethub-common
-A common module for the tickethub project.
-[Project Link](https://github.com/Shubhamjain2908/tickethub)
+# hackernewshub-common
+A common module for the Hacker news clone project.
+[Project Link](https://github.com/Shubhamjain2908/hackernewshub)
