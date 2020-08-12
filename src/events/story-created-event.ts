@@ -3,10 +3,10 @@ import { Subjects } from './subjects';
 export interface StoryCreatedEvent {
     subject: Subjects.StoryCreated;
     data: {
-        id: string,
+        storyId: Number,
         title: string,
         url: string,
-        createdAt: string | Date,
+        createdAt: Number,
         user: string,
         comments: Array<number>
     };
