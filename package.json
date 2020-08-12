@@ -10,7 +10,7 @@
   "scripts": {
     "clean": "del-cli ./build/*",
     "build": "npm run clean && tsc",
-    "pub": "git add . && git commit -m \"minor\" && npm version patch && git push && npm run build && npm publish --access=public"
+    "pub": "git add . && git commit -m \"added StoryEventModel\" && npm version patch && git push && npm run build && npm publish --access=public"
   },
   "keywords": [],
   "author": "",
