@@ -11,6 +11,7 @@ export interface StoryEventModel {
     storyId: number,
     title: string,
     url: string,
+    score: number,
     createdAt: number,
     user: string,
     comments: Array<number>
